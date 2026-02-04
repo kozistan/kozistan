@@ -5,6 +5,28 @@
       <stop offset="100%" stop-color="#3088be"/>
     </linearGradient>
     <circle id="n" r="1.8" fill="rgba(255,255,255,0.12)"/>
+    <!-- Toggle logo as a symbol with its own viewBox -->
+    <symbol id="toggle-logo" viewBox="0 0 497 288">
+      <g transform="translate(-342.04184,-269.73869)">
+        <path d="m 701.35684,285.09368 h -221.42 a 128.41,128.41 0 0 0 0,256.81 h 221.42 a 128.41,128.41 0 0 0 0,-256.81 z m 0,240.75 h -221.42 a 112.35,112.35 0 0 1 0,-224.69 h 221.42 a 112.35,112.35 0 0 1 0,224.69 z"
+              style="fill:#fcfeff;fill-opacity:1"/>
+        <g transform="translate(-7.0439853,-0.964995)">
+          <g>
+            <circle cx="700.97687" cy="414.90369" r="98.309998" style="fill:#fbae47"/>
+            <path d="m 700.97684,313.39368 a 101.07,101.07 0 1 0 101.08,101.07 101.07,101.07 0 0 0 -101.08,-101.07 z m 0,195 a 93.94,93.94 0 1 1 93.94,-93.94 94,94 0 0 1 -93.94,93.95 z"
+                  style="fill:#fafcfd;fill-opacity:1"/>
+          </g>
+          <g>
+            <circle cx="707.91687" cy="415.52368" r="5.8899999" style="fill:#007ba9"/>
+            <path d="m 661.85684,393.21368 a 2.23,2.23 0 0 0 -2.19,-2.2 h -28.84 a 2.23,2.23 0 0 0 -2.2,2.2 2.18,2.18 0 0 0 2.2,2.13 h 12 v 35.13 a 2.37,2.37 0 1 0 4.74,0 v -35.15 h 12.05 a 2.18,2.18 0 0 0 2.24,-2.11 z" style="fill:#007ba9"/>
+            <path d="m 671.41684,401.22368 a 15.88,15.88 0 0 0 -16,16 v 0.1 a 15.71,15.71 0 0 0 15.9,15.9 15.93,15.93 0 0 0 16.08,-16 v -0.12 a 15.76,15.76 0 0 0 -15.98,-15.88 z m 11.27,16.1 c 0,6.47 -4.62,11.81 -11.27,11.81 -6.47,0 -11.33,-5.34 -11.33,-11.93 v -0.12 c 0,-6.47 4.56,-11.87 11.21,-11.87 6.47,0 11.39,5.4 11.39,12 z" style="fill:#007ba9"/>
+            <path d="m 721.09684,401.57368 a 2.27,2.27 0 0 0 -2.26,2.32 v 3.5 a 14.38,14.38 0 0 0 -12,-6.17 14.7,14.7 0 0 0 -9.91,3.84 v -0.22 c 0,-7.18 4.39,-10.92 11.15,-10.92 a 19.4,19.4 0 0 1 10.86,3.32 1.83,1.83 0 0 0 1,0.3 2.18,2.18 0 0 0 2.08,-2 2.13,2.13 0 0 0 -1.19,-1.9 24.07,24.07 0 0 0 -12.82,-3.62 c -4.86,0 -9,1.37 -11.69,4.1 -2.49,2.49 -3.91,6.11 -3.91,10.86 v 23.34 a 2.32,2.32 0 0 0 2.31,2.31 2.27,2.27 0 0 0 2.26,-2.31 v -1.9 a 14.77,14.77 0 0 0 9.85,3.76 c 5.63,0 9.37,-2.91 12,-6.47 v 3.61 c 0,7.18 -4.39,10.92 -11.15,10.92 a 19.33,19.33 0 0 1 -10.86,-3.33 1.85,1.85 0 0 0 -1,-0.29 2.17,2.17 0 0 0 -2.08,2 2.12,2.12 0 0 0 1.19,1.9 24,24 0 0 0 12.81,3.62 c 4.87,0 9,-1.36 11.69,-4.09 2.5,-2.49 3.92,-6.11 3.92,-10.86 v -23.3 a 2.32,2.32 0 0 0 -2.25,-2.32 z m -2.08,14.19 c 0,6.17 -5.46,10.38 -11.27,10.38 a 10.39,10.39 0 0 1 -10.63,-10.44 v -0.12 c 0,-6.29 4.81,-10.33 10.63,-10.33 5.82,0 11.27,4.1 11.27,10.39 z" style="fill:#007ba9"/>
+            <path d="m 732.53684,388.94368 a 2.3,2.3 0 0 0 -2.26,2.31 v 39.28 a 2.28,2.28 0 0 0 2.31,2.32 2.23,2.23 0 0 0 2.26,-2.32 v -39.28 a 2.31,2.31 0 0 0 -2.31,-2.31 z" style="fill:#007ba9"/>
+            <path d="m 771.04684,416.77368 c 0,-8.13 -5.16,-15.55 -14.24,-15.55 -8.48,0 -14.71,7.12 -14.71,16 v 0.1 c 0,9.49 6.88,16 15.31,16 a 15.6,15.6 0 0 0 11.57,-4.63 2,2 0 1 0 -2.61,-2.9 12.59,12.59 0 0 1 -8.83,3.53 c -5.46,0 -10.15,-3.74 -10.8,-10.39 h 22.19 a 2.12,2.12 0 0 0 2.12,-2.16 z m -24.32,-1.25 c 0.59,-6 4.62,-10.44 10,-10.44 6.11,0 9.31,4.86 9.79,10.44 z" style="fill:#007ba9"/>
+          </g>
+        </g>
+      </g>
+    </symbol>
   </defs>
   <rect width="900" height="300" fill="url(#bg)"/>
   <!-- mesh background -->
@@ -25,18 +47,10 @@
   <use href="#n" x="550" y="210"/><use href="#n" x="720" y="228"/><use href="#n" x="850" y="210"/>
   <use href="#n" x="90" y="280"/><use href="#n" x="250" y="268"/><use href="#n" x="410" y="285"/>
   <use href="#n" x="570" y="270"/><use href="#n" x="740" y="283"/><use href="#n" x="860" y="272"/>
-  <!-- Toggle logo - switch centered -->
-  <g transform="translate(310,80)">
-    <!-- track (outer pill) -->
-    <rect x="0" y="0" width="180" height="90" rx="45" fill="none" stroke="#fcfeff" stroke-width="5"/>
-    <!-- orange circle (knob) -->
-    <circle cx="132" cy="45" r="33" fill="#fbae47"/>
-    <circle cx="132" cy="45" r="36" fill="none" stroke="rgba(250,252,253,0.8)" stroke-width="3"/>
-    <!-- Toggle text inside knob -->
-    <text x="132" y="50" text-anchor="middle" fill="#1a5984" font-family="sans-serif" font-size="11" font-weight="700" letter-spacing="0.5">Toggle</text>
-  </g>
+  <!-- Toggle logo centered: 250px wide, aspect 497:288 → height=145 -->
+  <use href="#toggle-logo" x="325" y="30" width="250" height="145"/>
   <!-- motto -->
-  <text x="450" y="225" text-anchor="middle" fill="rgba(240,255,255,0.9)" font-family="sans-serif" font-size="18" font-weight="300" letter-spacing="0.5">Have you tried turning it off and on again?</text>
+  <text x="450" y="220" text-anchor="middle" fill="rgba(240,255,255,0.9)" font-family="sans-serif" font-size="18" font-weight="300" letter-spacing="0.5">Have you tried turning it off and on again?</text>
   <!-- toggle.cz -->
-  <text x="450" y="265" text-anchor="middle" fill="rgba(240,255,255,0.4)" font-family="sans-serif" font-size="13" font-weight="300">toggle.cz</text>
+  <text x="450" y="260" text-anchor="middle" fill="rgba(240,255,255,0.4)" font-family="sans-serif" font-size="13" font-weight="300">toggle.cz</text>
 </svg>
